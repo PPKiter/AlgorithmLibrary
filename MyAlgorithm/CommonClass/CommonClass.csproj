@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3068A501-9A46-402B-B06A-064C0E17F628}</ProjectGuid>
+    <ProjectGuid>{8AA86715-CF4A-4907-B597-1F0730F2619D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01_ConvexHull</RootNamespace>
-    <AssemblyName>01_ConvexHull</AssemblyName>
+    <RootNamespace>CommonClass</RootNamespace>
+    <AssemblyName>CommonClass</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -31,14 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="RevitAPI">
-      <HintPath>D:\Revit_2020\path\Revit 2020\RevitAPI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="RevitAPIUI">
-      <HintPath>D:\Revit_2020\path\Revit 2020\RevitAPIUI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -49,16 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConvexHull.cs" />
-    <Compile Include="Point.cs" />
-    <Compile Include="ConvexHullCmd.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DebugUtils\GeoUtils.csproj">
-      <Project>{6A3EEEBF-B02D-4707-A4E2-45A66C2F2997}</Project>
-      <Name>GeoUtils</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
