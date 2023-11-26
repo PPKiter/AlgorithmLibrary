@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ConvexHull", "01_ConvexH
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helper", "Helper", "{3E256C79-7B11-4EBB-BCCE-909E82BFB50F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugUtils", "DebugUtils\DebugUtils.csproj", "{6A3EEEBF-B02D-4707-A4E2-45A66C2F2997}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoUtils", "DebugUtils\GeoUtils.csproj", "{6A3EEEBF-B02D-4707-A4E2-45A66C2F2997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
