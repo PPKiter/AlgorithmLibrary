@@ -4,3 +4,9 @@ E:\mygit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.cspr
 E:\mygit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.csproj.CoreCompileInputs.cache
 E:\mygit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.dll
 E:\mygit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.pdb
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\01_ConvexHull.dll
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\01_ConvexHull.pdb
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.csproj.AssemblyReference.cache
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.csproj.CoreCompileInputs.cache
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.dll
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.pdb
