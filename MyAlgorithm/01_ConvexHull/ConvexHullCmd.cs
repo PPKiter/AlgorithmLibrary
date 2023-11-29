@@ -10,6 +10,9 @@ using System.Threading.Tasks;
 
 namespace _01_ConvexHull
 {
+    /// <summary>
+    /// 凸包算法
+    /// </summary>
     [Transaction(TransactionMode.Manual)]
     internal class ConvexHullCmd : IExternalCommand
     {
