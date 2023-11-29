@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoUtils", "DebugUtils\GeoU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClass", "CommonClass\CommonClass.csproj", "{8AA86715-CF4A-4907-B597-1F0730F2619D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ConcaveHull", "02_ConcaveHull\02_ConcaveHull.csproj", "{D0290ABF-AE38-4DE0-96FF-EFD608A8196E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{8AA86715-CF4A-4907-B597-1F0730F2619D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA86715-CF4A-4907-B597-1F0730F2619D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA86715-CF4A-4907-B597-1F0730F2619D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0290ABF-AE38-4DE0-96FF-EFD608A8196E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0290ABF-AE38-4DE0-96FF-EFD608A8196E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0290ABF-AE38-4DE0-96FF-EFD608A8196E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0290ABF-AE38-4DE0-96FF-EFD608A8196E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{3068A501-9A46-402B-B06A-064C0E17F628} = {8070FEEC-E7B3-4BE9-B1A4-D66CB557DE4F}
 		{6A3EEEBF-B02D-4707-A4E2-45A66C2F2997} = {3E256C79-7B11-4EBB-BCCE-909E82BFB50F}
 		{8AA86715-CF4A-4907-B597-1F0730F2619D} = {3E256C79-7B11-4EBB-BCCE-909E82BFB50F}
+		{D0290ABF-AE38-4DE0-96FF-EFD608A8196E} = {8070FEEC-E7B3-4BE9-B1A4-D66CB557DE4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E9F252AE-B986-4CB7-8F4D-046E41734580}
