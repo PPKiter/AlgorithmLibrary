@@ -1,2 +1,0 @@
-E:\algoLib\AlgorithmLibrary\MyAlgorithm\obj\Debug\GeoUtils.csproj.AssemblyReference.cache
-E:\algoLib\AlgorithmLibrary\MyAlgorithm\obj\Debug\GeoUtils.csproj.CoreCompileInputs.cache
