@@ -1,0 +1,6 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\bin\Release\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\bin\Release\CommonClass.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Release\CommonClass.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Release\CommonClass.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Release\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Release\CommonClass.pdb

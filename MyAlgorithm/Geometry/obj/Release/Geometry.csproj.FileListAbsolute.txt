@@ -1,0 +1,6 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\bin\Release\Geometry.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\bin\Release\Geometry.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Release\Geometry.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Release\Geometry.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Release\Geometry.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Release\Geometry.pdb

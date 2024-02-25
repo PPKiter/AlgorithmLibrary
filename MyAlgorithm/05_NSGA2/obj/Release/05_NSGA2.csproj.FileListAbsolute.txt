@@ -1,0 +1,11 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Release\05_NSGA2.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Release\05_NSGA2.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Release\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Release\Geometry.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Release\CommonClass.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Release\Geometry.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Release\05_NSGA2.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Release\05_NSGA2.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Release\05_NSGA2.csproj.CopyComplete
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Release\05_NSGA2.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Release\05_NSGA2.pdb
