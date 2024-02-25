@@ -56,9 +56,9 @@
       <Project>{8aa86715-cf4a-4907-b597-1f0730f2619d}</Project>
       <Name>CommonClass</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DebugUtils\GeoUtils.csproj">
-      <Project>{6a3eeebf-b02d-4707-a4e2-45a66c2f2997}</Project>
-      <Name>GeoUtils</Name>
+    <ProjectReference Include="..\Geometry\Geometry.csproj">
+      <Project>{b33abc6d-5ddd-40fe-9c15-03a7be61695c}</Project>
+      <Name>Geometry</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

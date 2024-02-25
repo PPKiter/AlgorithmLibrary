@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace CommonClass
 {
+    /// <summary>
+    /// 单位转换工具类
+    /// </summary>
     public static class UnitUtils
     {
         public static double FeetToMM(this double feet)

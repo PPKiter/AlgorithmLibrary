@@ -4,3 +4,9 @@ E:\gitTest\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj
 E:\gitTest\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj.CoreCompileInputs.cache
 E:\gitTest\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.dll
 E:\gitTest\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\bin\Debug\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\bin\Debug\CommonClass.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.pdb

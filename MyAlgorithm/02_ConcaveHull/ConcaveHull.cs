@@ -39,7 +39,9 @@ namespace _02_ConcaveHull
     /// </summary>
     public class ConcaveHull
     {
-     
+
+        public List<Point> _draws = new List<Point>();
+        public double _radius;
         //点点之间距离列表
         private double[,] _distances;
         //邻居列表
@@ -83,13 +85,14 @@ namespace _02_ConcaveHull
         /// </summary>
         /// <param name="radius"></param>
         /// <returns></returns>
-        public List<Point> Compute(double radius=-1)
+        public List<Point> Compute(double radius = -1)
         {
             //计算默认半径
             if (radius == -1)
             {
                 radius = CalDefaultRadius();
             }
+            _radius = radius;
             List<Point> results = new List<Point>();
             List<int>[] neighs = GetNeighbourList(2 * radius);
             results.Add(_points[0]);
@@ -159,6 +162,7 @@ namespace _02_ConcaveHull
                 Point rightCirleCenter = CalCenterByPtsAndRadius(_points[cur], xianp, radius);
                 if (!IsPointsInCircle(list, rightCirleCenter, radius, adjIndex))
                 {
+                    _draws.Add(rightCirleCenter);
                     return list[j];
                 }
             }
@@ -290,10 +294,10 @@ namespace _02_ConcaveHull
             {
                 Point pt = _points[i];
                 pt.Id = i;
-                pt.Distance = _distances[index,i];
+                pt.Distance = _distances[index, i];
                 pts.Add(pt);
             }
-            pts= pts.OrderBy(p=>p.Distance).ToList();
+            pts = pts.OrderBy(p => p.Distance).ToList();
 
             List<int> adj = new List<int>();
             for (int i = 1; i < pts.Count; i++)

@@ -2,13 +2,14 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
-namespace DebugUtils
+namespace GeoUtils
 {
+    /// <summary>
+    /// Debug工具类
+    /// </summary>
     public static class DebugUtils
     {
 
@@ -85,6 +86,17 @@ namespace DebugUtils
 
             return newCategory;
 
+        }
+
+        /// <summary>
+        /// 根据点和半径画圆
+        /// </summary>
+        /// <param name="center"></param>
+        /// <param name="radius"></param>
+        /// <returns></returns>
+        public static Arc DrawCircleByCenterAndRadius(this XYZ center, double radius)
+        {
+            return Arc.Create(center, radius, 0, 2 * Math.PI, XYZ.BasisX, XYZ.BasisY);
         }
 
     }

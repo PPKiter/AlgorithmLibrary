@@ -2,7 +2,7 @@
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using CommonClass;
-using DebugUtils;
+using Geometry;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,20 +27,26 @@ namespace _02_ConcaveHull
 
             var vetexs = pts.Select(p => new Point(p.X, p.Y)).ToList();
             ConcaveHull ball = new ConcaveHull(vetexs);
-            double radis = 20000.0.MMToFeet();
-            var result = ball.Compute(radis).Select(p => new XYZ(p.X, p.Y, 0)).ToList();
+            //double radis = 20000.0.MMToFeet();
+            var result = ball.Compute().Select(p => new XYZ(p.X, p.Y, 0)).ToList();
 
             List<Line> lines = new List<Line>();
-            for (int i = 0; i < result.Count-1; i++)
+            for (int i = 0; i < result.Count - 1; i++)
             {
                 Line ll = Line.CreateBound(result[i], result[i + 1]);
                 lines.Add(ll);
             }
 
+            //var tests = ball._draws.Select(p => new XYZ(p.X, p.Y, 0)).ToList();
+            //var circles = tests.Select(p => p.DrawCircleByCenterAndRadius(ball._radius)).ToList();
+            //doc.DrawDebugCurves(circles);
             doc.DrawDebugCurves(lines);
 
 
             return Result.Succeeded;
         }
+
+
     }
+
 }

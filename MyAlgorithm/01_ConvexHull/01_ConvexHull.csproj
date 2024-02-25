@@ -55,9 +55,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DebugUtils\GeoUtils.csproj">
-      <Project>{6A3EEEBF-B02D-4707-A4E2-45A66C2F2997}</Project>
-      <Name>GeoUtils</Name>
+    <ProjectReference Include="..\Geometry\Geometry.csproj">
+      <Project>{b33abc6d-5ddd-40fe-9c15-03a7be61695c}</Project>
+      <Name>Geometry</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
