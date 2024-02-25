@@ -1,0 +1,12 @@
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\DebugUtils\bin\Debug\DebugUtils.dll
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\DebugUtils\bin\Debug\DebugUtils.pdb
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\GeoUtils.csproj.AssemblyReference.cache
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\GeoUtils.csproj.CoreCompileInputs.cache
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\DebugUtils.dll
+E:\gitTest\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\DebugUtils.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\DebugUtils\bin\Debug\DebugUtils.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\DebugUtils\bin\Debug\DebugUtils.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\GeoUtils.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\GeoUtils.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\DebugUtils.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\DebugUtils\obj\Debug\DebugUtils.pdb
