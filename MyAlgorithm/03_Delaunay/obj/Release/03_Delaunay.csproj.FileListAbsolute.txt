@@ -1,0 +1,11 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\bin\Release\03_Delaunay.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\bin\Release\03_Delaunay.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\bin\Release\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\bin\Release\Geometry.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\bin\Release\CommonClass.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\bin\Release\Geometry.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\obj\Release\03_Delaunay.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\obj\Release\03_Delaunay.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\obj\Release\03_Delaunay.csproj.CopyComplete
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\obj\Release\03_Delaunay.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Delaunay\obj\Release\03_Delaunay.pdb
