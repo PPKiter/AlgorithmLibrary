@@ -1,0 +1,11 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\04_Backtrack.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\04_Backtrack.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\Geometry.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\CommonClass.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\Geometry.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.csproj.CopyComplete
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.pdb
