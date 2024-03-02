@@ -41,20 +41,13 @@ namespace _04_Backtrack
         /// </summary>
         /// <param name="groups">待回溯列表，第一层list是所有分组，第二层list是每个分组有多少个体</param>
         /// <param name="conflictChecker"></param>
-        //public BacktrackAlgo(List<List<T>> groups, ConflictCheckerDelegate<T> conflictChecker)
-        //{
-        //    _max = groups.Count - 1;
-        //    _groups = groups;
-        //    ConflictChecker = conflictChecker;
-        //}
-
-        public BacktrackAlgo(List<List<T>> groups, Func<T, T, bool> conflict2)
+        public BacktrackAlgo(List<List<T>> groups, ConflictCheckerDelegate<T> conflictChecker)
         {
             _max = groups.Count - 1;
             _groups = groups;
-            //ConflictChecker = conflictChecker;
-            Conflict2 = conflict2;
+            ConflictChecker = conflictChecker;
         }
+
 
         /// <summary>
         /// 算法入口
@@ -118,23 +111,11 @@ namespace _04_Backtrack
             foreach (var exist in exists)
             {
                 //冲突检查
-                //if (ConflictChecker(exist, cur))
-                //{
-                //    return false;
-                //}
-
-                try
+                if (ConflictChecker(exist, cur))
                 {
-                    if (Conflict2(exist, cur))
-                    {
-                        return false;
-                    }
-
+                    return false;
                 }
-                catch (Exception ex)
-                {
 
-                }
             }
             return true;
         }
