@@ -12,6 +12,10 @@ namespace Geometry
     /// </summary>
     public static class DebugUtils
     {
+        public static void DrawDebugCurves(this IEnumerable<Curve> curves, Document doc)
+        {
+            doc.DrawDebugCurves(curves);
+        }
 
         public static void DrawDebugCurves(this Document doc, IEnumerable<Curve> curves)
         {
@@ -27,6 +31,8 @@ namespace Geometry
             doc.CreateOrModifyLineStyle(detailCurves, "Debug线");
             ts.Commit();
         }
+
+
 
         /// <summary>
         /// 创建或修改线样式
