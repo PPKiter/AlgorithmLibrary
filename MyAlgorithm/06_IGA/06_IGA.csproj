@@ -32,11 +32,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="RevitAPI">
-      <HintPath>D:\Revit_2020\path\Revit 2020\RevitAPI.dll</HintPath>
+      <HintPath>..\..\ThirdParty\RevitAPI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIUI">
-      <HintPath>D:\Revit_2020\path\Revit 2020\RevitAPIUI.dll</HintPath>
+      <HintPath>..\..\ThirdParty\RevitAPIUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GAFunctions.cs" />
     <Compile Include="Gene.cs" />
     <Compile Include="IGACmd.cs" />
     <Compile Include="Individual.cs" />

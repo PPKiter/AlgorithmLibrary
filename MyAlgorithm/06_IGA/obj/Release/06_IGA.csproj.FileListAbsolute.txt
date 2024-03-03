@@ -1,0 +1,11 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Release\06_IGA.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Release\06_IGA.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Release\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Release\Geometry.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Release\CommonClass.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Release\Geometry.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Release\06_IGA.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Release\06_IGA.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Release\06_IGA.csproj.CopyComplete
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Release\06_IGA.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Release\06_IGA.pdb

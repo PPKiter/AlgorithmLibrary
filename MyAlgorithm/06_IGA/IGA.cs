@@ -12,11 +12,11 @@ namespace _06_IGA
         /// <summary>
         /// 迭代次数
         /// </summary>
-        public int Iteration { get; set; } = 200;
+        public int Iteration { get; set; } = 500;
         /// <summary>
         /// 种群数量
         /// </summary>
-        public int NP { get; set; } = 50;
+        public int NP { get; set; } = 200;
         /// <summary>
         /// 交叉算子
         /// </summary>
@@ -25,38 +25,56 @@ namespace _06_IGA
         /// 变异算子
         /// </summary>
         public double PM { get; set; } = 0.3;
+
+        private int GeneCount { get; set; } = 10;
         /// <summary>
         /// 基因
         /// </summary>
         private List<Gene> Genes { get; set; }
 
+        Func<double[], double> Func { get; set; }
 
+        public double Result { get; private set; }
+        public double[] Values { get; private set; }
+
+        public IGA(Func<double[], double> func)
+        {
+            Func = func;
+            
+        }
+
+        /// <summary>
+        /// 遗传算法主程序
+        /// </summary>
         public void Main()
         {
             //1.初始化种群
-            var population=InitPopulation();
+            var population = InitPopulation();
             //2.计算适应度
-
-
+            population.Individuals.ForEach(p => p.CalVirtualFitnes());
             int count = 1;
-            var parents=population.Individuals.DeepCloneInds();
+            var parents = population.Individuals.DeepCloneInds();
             while (count < Iteration)
             {
                 //选择
                 var selects = Select(parents);
                 //交叉
-                var childs=Crossover(selects);
+                var childs = Crossover(selects);
                 //变异
                 Mutation(childs);
+                //计算子代适应度
+                childs.ForEach(p => p.CalVirtualFitnes());
                 //合并种群
-                var mergeInds=MergePopulation(parents,childs);
+                var mergeInds = MergePopulation(parents, childs);
                 //精英保留
-                var elitisms=Elitism(mergeInds);
+                var elitisms = Elitism(mergeInds);
                 //迭代
-                parents=elitisms.DeepCloneInds();
+                parents = elitisms.DeepCloneInds();
                 count++;
             }
             //结果查看
+            Values = parents[0].Decode();
+            Result = parents[0].Function;
         }
 
         /// <summary>
@@ -70,35 +88,28 @@ namespace _06_IGA
             //第一层循环：种群
             for (int i = 0; i < NP; i++)
             {
-                Gene[] genes = new Gene[Genes.Count];
+                Gene[] genes = new Gene[GeneCount];
                 //第二层循环：基因
-                for (int j = 0; j < Genes.Count; j++)
+                for (int j = 0; j < GeneCount; j++)
                 {
-                    var gene = Genes[j];
-                    //生成随机种子
-                    byte[] buffer = Guid.NewGuid().ToByteArray();
-                    int seed = BitConverter.ToInt32(buffer, 0);
-                    Random random = new Random(seed);
-                    int randomIndex = random.Next(gene.Range.Length);
-                    gene.Value = gene.Range[randomIndex];
+                    Gene gene = new Gene();
+                    gene.GetValue();
                     genes[j] = gene;
                 }
                 //一条染色体
-                Gene[] clones = new Gene[Genes.Count];
+                Gene[] clones = new Gene[GeneCount];
                 for (int t = 0; t < genes.Length; t++)
                 {
                     var clone = genes[t].DeepCloneGene();
                     clones[t] = clone;
                 }
-                Individual individual = new Individual(clones);
+                Individual individual = new Individual(clones, Func);
                 individuals[i] = individual;
             }
             //种群
             Population population = new Population(individuals);
             return population;
         }
-
-
 
         /// <summary>
         /// 选择
@@ -108,22 +119,22 @@ namespace _06_IGA
         /// <returns></returns>
         private List<Individual> Select(List<Individual> inds)
         {
-            List<Individual> saves=new List<Individual>();
+            List<Individual> saves = new List<Individual>();
             for (int i = 0; i < NP; i++)
             {
                 //每次随机选择10个个体比较
                 byte[] buffer = Guid.NewGuid().ToByteArray();
                 int seed = BitConverter.ToInt32(buffer, 0);
                 Random random = new Random(seed);
-                int[] indexs=new int[10];
+                int[] indexs = new int[10];
                 List<Individual> selects = new List<Individual>();
                 for (int j = 0; j < 10; j++)
                 {
-                    indexs[j]=random.Next(0, NP);
+                    indexs[j] = random.Next(0, NP);
                     var select = inds[indexs[j]];
                     selects.Add(select);
                 }
-                //从这10个染色体中，选择最好的保留下来（pareto等级最低，拥挤度最高）
+                //从这10个染色体中，选择最好的保留下来
                 var best = selects.OrderBy(p => p.Function).FirstOrDefault();
                 saves.Add(best);
             }
@@ -154,12 +165,12 @@ namespace _06_IGA
                     byte[] buffer2 = Guid.NewGuid().ToByteArray();
                     int seed2 = BitConverter.ToInt32(buffer2, 0);
                     Random rnd = new Random(seed2);
-                    int index1= rnd.Next(0, NP);
+                    int index1 = rnd.Next(0, NP);
                     int index2 = rnd.Next(0, NP);
                     //选出两个不同的个体
                     while (index1 == index2)
                     {
-                        index2= rnd.Next(0, NP);
+                        index2 = rnd.Next(0, NP);
                     }
                     //父代
                     var parent1 = inds[index1];
@@ -169,12 +180,12 @@ namespace _06_IGA
                     var crossPt2 = rnd.Next(0, parent1.Genes.Length);
                     while (crossPt1 == crossPt2)
                     {
-                        crossPt2=rnd.Next(0, parent1.Genes.Length);
+                        crossPt2 = rnd.Next(0, parent1.Genes.Length);
                     }
                     //2点交叉可产生6个子代，这里只交换中间基因，使之产生2个子代
                     if (crossPt2 < crossPt1)
                     {
-                        int temp= crossPt1;
+                        int temp = crossPt1;
                         crossPt1 = crossPt2;
                         crossPt2 = temp;
                     }
@@ -183,8 +194,8 @@ namespace _06_IGA
                     var seg2 = parent2.Genes.SegArraryToThreeParts(crossPt1, crossPt2);
                     var gen1 = seg1[0].Concat(seg2[1]).Concat(seg1[2]).ToArray();
                     var gen2 = seg2[0].Concat(seg1[1]).Concat(seg2[2]).ToArray();
-                    Individual child1 = new Individual(gen1);
-                    Individual child2 = new Individual(gen2);
+                    Individual child1 = new Individual(gen1, Func);
+                    Individual child2 = new Individual(gen2, Func);
                     childs.Add(child1);
                     childs.Add(child2);
 
@@ -227,13 +238,11 @@ namespace _06_IGA
                     }
                     var cloneGenes = parent.Genes.ToList().Select(p => p.DeepCloneGene()).ToList();
                     //随机变异
-                    Random rand2 = new Random();
-                    int randIdx1 = rand2.Next(cloneGenes[muPt1].Range.Length);
-                    int randIdx2 = rand2.Next(cloneGenes[muPt2].Range.Length);
-                    cloneGenes[muPt1].Value = cloneGenes[muPt1].Range[randIdx1];
-                    cloneGenes[muPt2].Value = cloneGenes[muPt2].Range[randIdx2];
+                    cloneGenes[muPt1].GetValue();
+                    cloneGenes[muPt2].GetValue();
+
                     //变异后的染色体加入孩子列表，同时孩子列表删除编译前的父亲染色体
-                    Individual mutation=new Individual(cloneGenes.ToArray());
+                    Individual mutation = new Individual(cloneGenes.ToArray(), Func);
                     inds.Add(mutation);
                     inds.Remove(parent);
 
@@ -247,7 +256,7 @@ namespace _06_IGA
         /// <param name="parents"></param>
         /// <param name="childs"></param>
         /// <returns></returns>
-        private List<Individual> MergePopulation(List<Individual> parents,List<Individual> childs)
+        private List<Individual> MergePopulation(List<Individual> parents, List<Individual> childs)
         {
             parents.AddRange(childs);
             return parents;

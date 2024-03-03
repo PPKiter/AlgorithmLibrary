@@ -22,3 +22,5 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.dl
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.pdb
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\Geometry.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\Geometry.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\CommonClass.pdb

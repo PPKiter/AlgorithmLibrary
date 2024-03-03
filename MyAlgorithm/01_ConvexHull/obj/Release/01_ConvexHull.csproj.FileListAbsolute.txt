@@ -7,3 +7,5 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Release\01_ConvexHull.
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Release\01_ConvexHull.csproj.CopyComplete
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Release\01_ConvexHull.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Release\01_ConvexHull.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Release\CommonClass.dll
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Release\CommonClass.pdb
