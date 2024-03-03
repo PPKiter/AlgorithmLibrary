@@ -16,6 +16,9 @@ namespace _06_IGA
         {
             UIDocument uidoc = commandData.Application.ActiveUIDocument;
             Document doc = uidoc.Document;
+            GAFunctions testFuncs=new GAFunctions();
+            IGA iga = new IGA(testFuncs.SphereFunction);
+            iga.Main();
 
 
 
