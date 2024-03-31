@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>05_NSGA2</name>
+    </assembly>
+    <members>
+        <member name="T:_05_NSGA2.Gene">
+            <summary>
+            基因
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Gene.Range">
+            <summary>
+            变量范围
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Gene.Value">
+            <summary>
+            变量值
+            </summary>
+        </member>
+        <member name="M:_05_NSGA2.Gene.Decode">
+            <summary>
+            解码函数
+            </summary>
+        </member>
+        <member name="M:_05_NSGA2.Gene.DeepCloneGene">
+            <summary>
+            基因拷贝
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:_05_NSGA2.Individual">
+            <summary>
+            染色体
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.DomintedCount">
+            <summary>
+            当前个体被支配的数量
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.DominateInds">
+            <summary>
+            当前个体支配了哪些个体 
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.ParetoRank">
+            <summary>
+            Pareto等级
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.CrowdingRate">
+            <summary>
+            拥挤度
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.Crowdings">
+            <summary>
+            用来计算拥挤度而定义的集合
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.Genes">
+            <summary>
+            基因
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.Function1">
+            <summary>
+            目标函数1
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.Function2">
+            <summary>
+            目标函数2
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Individual.GeneRow">
+            <summary>
+            基因排成一行，方便调试时查看
+            </summary>
+        </member>
+        <member name="M:_05_NSGA2.Individual.DeepCloneInd">
+            <summary>
+            个体克隆
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:_05_NSGA2.NSGA2.Iteration">
+            <summary>
+            迭代次数
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.NSGA2.NP">
+            <summary>
+            种群数量
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.NSGA2.PC">
+            <summary>
+            交叉算子
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.NSGA2.PM">
+            <summary>
+            变异算子
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.NSGA2.Genes">
+            <summary>
+            基因
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.NSGA2.ParetoFront">
+            <summary>
+            Pareto前沿
+            </summary>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.InitPopulation">
+            <summary>
+            初始化种群
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.NonDominatedSort(System.Collections.Generic.List{_05_NSGA2.Individual})">
+            <summary>
+            计算非支配解
+            </summary>
+            <param name="inds"></param>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.CalCrowdingDistance(System.Collections.Generic.List{_05_NSGA2.Individual})">
+            <summary>
+            计算种群拥挤距离
+            </summary>
+            <param name="inds"></param>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.CalIndividualCrowdingRate(System.Collections.Generic.List{_05_NSGA2.Individual},System.Int32)">
+            <summary>
+            计算每一层pareto解集个体的拥挤度
+            </summary>
+            <param name="group"></param>
+            <param name="func"></param>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.Select(System.Collections.Generic.List{_05_NSGA2.Individual})">
+            <summary>
+            选择
+            策略：锦标赛
+            </summary>
+            <param name="inds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.Crossover(System.Collections.Generic.List{_05_NSGA2.Individual})">
+            <summary>
+            交叉
+            策略：两点交叉
+            </summary>
+            <param name="inds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.Mutation(System.Collections.Generic.List{_05_NSGA2.Individual})">
+            <summary>
+            变异
+            策略：两点变异
+            </summary>
+            <param name="inds"></param>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.MergePopulation(System.Collections.Generic.List{_05_NSGA2.Individual},System.Collections.Generic.List{_05_NSGA2.Individual})">
+            <summary>
+            父代、子代合并
+            </summary>
+            <param name="parents"></param>
+            <param name="childs"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.Elitism(System.Collections.Generic.List{_05_NSGA2.Individual})">
+            <summary>
+            精英保留
+            </summary>
+            <param name="inds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2.CalPareto(System.Collections.Generic.List{_05_NSGA2.Individual},System.Int32)">
+            <summary>
+            计算Pareto面
+            </summary>
+            <param name="elitisms"></param>
+            <param name="count"></param>
+            <returns></returns>
+        </member>
+        <member name="T:_05_NSGA2.NSGA2Cmd">
+            <summary>
+            Revit命令窗口
+            </summary>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2Cmd.Execute(Autodesk.Revit.UI.ExternalCommandData,System.String@,Autodesk.Revit.DB.ElementSet)">
+            <summary>
+            执行
+            </summary>
+            <param name="commandData">外部数据</param>
+            <param name="message">信息</param>
+            <param name="elements">元素集合</param>
+            <returns></returns>
+        </member>
+        <member name="T:_05_NSGA2.NSGA2Utils">
+            <summary>
+            NSGA2辅助工具类
+            </summary>
+        </member>
+        <member name="M:_05_NSGA2.NSGA2Utils.DeepCloneInds(System.Collections.Generic.IEnumerable{_05_NSGA2.Individual})">
+            <summary>
+            染色体集合拷贝
+            </summary>
+            <param name="individuals"></param>
+            <returns></returns>
+        </member>
+        <member name="T:_05_NSGA2.Pareto">
+            <summary>
+            Pareto解集
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Pareto.Individuals">
+            <summary>
+            Pareto解
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Pareto.SortFunc1">
+            <summary>
+            根据目标函数1排序
+            </summary>
+        </member>
+        <member name="P:_05_NSGA2.Pareto.SortFunc2">
+            <summary>
+            根据目标函数2排序
+            </summary>
+        </member>
+        <member name="M:_05_NSGA2.Pareto.SortFunc">
+            <summary>
+            根据目标函数排序
+            </summary>
+        </member>
+        <member name="T:_05_NSGA2.Population">
+            <summary>
+            种群
+            </summary>
+        </member>
+    </members>
+</doc>
