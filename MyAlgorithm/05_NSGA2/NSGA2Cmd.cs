@@ -15,6 +15,13 @@ namespace _05_NSGA2
     [Transaction(TransactionMode.Manual)]
     public class NSGA2Cmd : IExternalCommand
     {
+        /// <summary>
+        /// 执行
+        /// </summary>
+        /// <param name="commandData">外部数据</param>
+        /// <param name="message">信息</param>
+        /// <param name="elements">元素集合</param>
+        /// <returns></returns>
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             UIDocument uidoc = commandData.Application.ActiveUIDocument;
@@ -22,8 +29,7 @@ namespace _05_NSGA2
 
             NSGA2 nsga2=new NSGA2();
             nsga2.Main();
-
-
+            
             return Result.Succeeded;
         }
     }

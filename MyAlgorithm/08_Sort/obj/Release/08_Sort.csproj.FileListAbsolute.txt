@@ -1,0 +1,8 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\bin\Release\08_Sort.exe.config
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\bin\Release\08_Sort.exe
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\bin\Release\08_Sort.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Release\08_Sort.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Release\08_Sort.csproj.SuggestedBindingRedirects.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Release\08_Sort.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Release\08_Sort.exe
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Release\08_Sort.pdb

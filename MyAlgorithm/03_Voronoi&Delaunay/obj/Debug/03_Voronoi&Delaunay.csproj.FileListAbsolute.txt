@@ -1,0 +1,10 @@
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\bin\Debug\03_Voronoi&Delaunay.exe.config
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\bin\Debug\03_Voronoi&Delaunay.exe
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\bin\Debug\03_Voronoi&Delaunay.pdb
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.AssemblyReference.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.SuggestedBindingRedirects.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\_03_Voronoi_Delaunay.VoronoiDelaunayForm.resources
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.GenerateResource.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.CoreCompileInputs.cache
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.exe
+E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.pdb
