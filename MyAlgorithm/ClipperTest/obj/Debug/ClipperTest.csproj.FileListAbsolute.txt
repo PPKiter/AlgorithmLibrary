@@ -1,0 +1,12 @@
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\bin\Debug\ClipperTest.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\bin\Debug\ClipperTest.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\bin\Debug\clipper_library.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\obj\Debug\ClipperTest.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\obj\Debug\ClipperTest.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\obj\Debug\ClipperT.1101D784.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\obj\Debug\ClipperTest.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\obj\Debug\ClipperTest.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ClipperTest\bin\Debug\Geometry.pdb

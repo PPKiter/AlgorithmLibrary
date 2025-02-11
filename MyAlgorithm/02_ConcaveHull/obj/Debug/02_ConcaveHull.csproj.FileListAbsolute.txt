@@ -93,3 +93,16 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\obj\Debug\02_ConcaveHull.
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\obj\Debug\02_ConcaveHull.pdb
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\Geometry.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\02_ConcaveHull.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\02_ConcaveHull.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\RevitAPI.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\RevitAPIUI.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\obj\Debug\02_ConcaveHull.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\obj\Debug\02_ConcaveHull.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\obj\Debug\02_Conca.16AB0AEC.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\obj\Debug\02_ConcaveHull.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\02_ConcaveHull\obj\Debug\02_ConcaveHull.pdb

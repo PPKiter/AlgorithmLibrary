@@ -1,0 +1,6 @@
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\09_Intersection\bin\Debug\09_Intersection.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\09_Intersection\bin\Debug\09_Intersection.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\09_Intersection\obj\Debug\09_Intersection.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\09_Intersection\obj\Debug\09_Intersection.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\09_Intersection\obj\Debug\09_Intersection.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\09_Intersection\obj\Debug\09_Intersection.pdb

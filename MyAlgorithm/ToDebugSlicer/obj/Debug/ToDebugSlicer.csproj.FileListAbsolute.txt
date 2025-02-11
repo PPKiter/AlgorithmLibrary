@@ -1,0 +1,13 @@
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\ToDebugSlicer.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\ToDebugSlicer.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\Newtonsoft.Json.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\bin\Debug\Newtonsoft.Json.xml
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\obj\Debug\ToDebugSlicer.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\obj\Debug\ToDebugSlicer.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\obj\Debug\ToDebugS.103A33E0.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\obj\Debug\ToDebugSlicer.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\ToDebugSlicer\obj\Debug\ToDebugSlicer.pdb

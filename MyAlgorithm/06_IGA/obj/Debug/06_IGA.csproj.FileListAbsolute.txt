@@ -9,3 +9,14 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.csproj.CoreCompi
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.csproj.CopyComplete
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Debug\06_IGA.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Debug\06_IGA.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.csproj.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\06_IGA\obj\Debug\06_IGA.pdb

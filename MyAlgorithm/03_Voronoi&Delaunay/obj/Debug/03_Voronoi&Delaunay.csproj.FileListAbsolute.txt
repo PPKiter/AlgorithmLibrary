@@ -8,3 +8,12 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.CoreCompileInputs.cache
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.exe
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\bin\Debug\03_Voronoi&Delaunay.exe.config
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\bin\Debug\03_Voronoi&Delaunay.exe
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\bin\Debug\03_Voronoi&Delaunay.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\_03_Voronoi_Delaunay.VoronoiDelaunayForm.resources
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.GenerateResource.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.exe
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\03_Voronoi&Delaunay\obj\Debug\03_Voronoi&Delaunay.pdb

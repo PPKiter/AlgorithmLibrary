@@ -24,3 +24,14 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\Geometry.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\Geometry.pdb
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\CommonClass.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\01_ConvexHull.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\01_ConvexHull.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_Conve.B9C88462.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\01_ConvexHull\obj\Debug\01_ConvexHull.pdb

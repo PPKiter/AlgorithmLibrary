@@ -9,3 +9,14 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.csproj.CoreCompi
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.csproj.CopyComplete
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\bin\Debug\07_PSO.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\bin\Debug\07_PSO.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.csproj.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\07_PSO\obj\Debug\07_PSO.pdb
