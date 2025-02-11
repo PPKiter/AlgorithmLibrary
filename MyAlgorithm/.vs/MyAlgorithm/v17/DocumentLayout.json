@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E57E2B-6EF1-488E-B8E1-F714D2D8E9AF}|ToDebugSlicer\\ToDebugSlicer.csproj|c:\\d\\revitgit\\algorithmlibrary\\myalgorithm\\todebugslicer\\debugnonplanarcmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E57E2B-6EF1-488E-B8E1-F714D2D8E9AF}|ToDebugSlicer\\ToDebugSlicer.csproj|solutionrelative:todebugslicer\\debugnonplanarcmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E57E2B-6EF1-488E-B8E1-F714D2D8E9AF}|ToDebugSlicer\\ToDebugSlicer.csproj|C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\todebugslicer\\mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E57E2B-6EF1-488E-B8E1-F714D2D8E9AF}|ToDebugSlicer\\ToDebugSlicer.csproj|solutionrelative:todebugslicer\\mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92EDE31-1EF5-4CFB-9E20-23AA1B49D1F1}|PrintTest\\PrintTest.csproj|C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\printtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EDE31-1EF5-4CFB-9E20-23AA1B49D1F1}|PrintTest\\PrintTest.csproj|solutionrelative:printtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyPoint.cs",
+              "DocumentMoniker": "C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\ToDebugSlicer\\MyPoint.cs",
+              "RelativeDocumentMoniker": "ToDebugSlicer\\MyPoint.cs",
+              "ToolTip": "C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\ToDebugSlicer\\MyPoint.cs",
+              "RelativeToolTip": "ToDebugSlicer\\MyPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:27:54.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebugNonplanarCmd.cs",
+              "DocumentMoniker": "C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\ToDebugSlicer\\DebugNonplanarCmd.cs",
+              "RelativeDocumentMoniker": "ToDebugSlicer\\DebugNonplanarCmd.cs",
+              "ToolTip": "C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\ToDebugSlicer\\DebugNonplanarCmd.cs",
+              "RelativeToolTip": "ToDebugSlicer\\DebugNonplanarCmd.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:34:54.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\PrintTest\\Program.cs",
+              "RelativeDocumentMoniker": "PrintTest\\Program.cs",
+              "ToolTip": "C:\\D\\RevitGit\\AlgorithmLibrary\\MyAlgorithm\\PrintTest\\Program.cs",
+              "RelativeToolTip": "PrintTest\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAxwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:30:22.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

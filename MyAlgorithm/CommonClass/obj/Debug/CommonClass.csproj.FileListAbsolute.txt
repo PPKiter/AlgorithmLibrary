@@ -10,3 +10,9 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj.CoreCompileInputs.cache
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\CommonClass\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\CommonClass\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\CommonClass\obj\Debug\CommonClass.pdb

@@ -9,3 +9,14 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.cspr
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.csproj.CopyComplete
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\04_Backtrack.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\04_Backtrack.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backt.D2D7D5A7.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\04_Backtrack\obj\Debug\04_Backtrack.pdb

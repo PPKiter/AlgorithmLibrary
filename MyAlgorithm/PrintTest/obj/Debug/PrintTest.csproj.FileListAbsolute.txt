@@ -1,0 +1,7 @@
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\PrintTest\bin\Debug\PrintTest.exe.config
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\PrintTest\bin\Debug\PrintTest.exe
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\PrintTest\bin\Debug\PrintTest.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\PrintTest\obj\Debug\PrintTest.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\PrintTest\obj\Debug\PrintTest.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\PrintTest\obj\Debug\PrintTest.exe
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\PrintTest\obj\Debug\PrintTest.pdb

@@ -4,3 +4,9 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\bin\Debug\Geometry.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\bin\Debug\Geometry.pdb
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Debug\Geometry.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\Geometry\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\Geometry\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\Geometry\obj\Debug\Geometry.pdb

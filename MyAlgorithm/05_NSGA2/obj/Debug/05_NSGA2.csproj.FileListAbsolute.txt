@@ -9,3 +9,14 @@ E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Debug\Geometry.pdb
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.csproj.CopyComplete
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.dll
 E:\algoLib\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Debug\05_NSGA2.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Debug\05_NSGA2.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Debug\CommonClass.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Debug\Geometry.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Debug\CommonClass.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\bin\Debug\Geometry.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.csproj.Up2Date
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.dll
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\05_NSGA2\obj\Debug\05_NSGA2.pdb

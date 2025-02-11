@@ -1,0 +1,7 @@
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\08_Sort\bin\Debug\08_Sort.exe.config
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\08_Sort\bin\Debug\08_Sort.exe
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\08_Sort\bin\Debug\08_Sort.pdb
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Debug\08_Sort.csproj.AssemblyReference.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Debug\08_Sort.csproj.CoreCompileInputs.cache
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Debug\08_Sort.exe
+C:\D\RevitGit\AlgorithmLibrary\MyAlgorithm\08_Sort\obj\Debug\08_Sort.pdb
